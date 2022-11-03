@@ -1,3 +1,4 @@
+// ジェネリクス型
 export class Queue<T> {
     private array: T[] = [];
 
